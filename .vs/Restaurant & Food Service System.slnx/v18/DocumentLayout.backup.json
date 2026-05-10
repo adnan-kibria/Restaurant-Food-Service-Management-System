@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\",
+  "WorkspaceRootPath": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44C2C9CD-04ED-493C-B6CD-8FA3CEACB467}|DAL\\DAL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant \u0026 food service system\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{44C2C9CD-04ED-493C-B6CD-8FA3CEACB467}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\applayer\\authfilters\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\authfilters\\adminaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC9F5A6F-EC9E-488D-9722-191889DBC02D}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant \u0026 food service system\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FC9F5A6F-EC9E-488D-9722-191889DBC02D}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\applayer\\applayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\applayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC9F5A6F-EC9E-488D-9722-191889DBC02D}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant \u0026 food service system\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9F5A6F-EC9E-488D-9722-191889DBC02D}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\bll\\customvalidations\\uniqueemailattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\customvalidations\\uniqueemailattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57C8432-B03E-4C7E-B2C2-DAF838879725}|AppLayer\\AppLayer.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant \u0026 food service system\\applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57C8432-B03E-4C7E-B2C2-DAF838879725}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\dal\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,11 +55,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DAL",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\DAL\\DAL.csproj",
+              "Title": "AdminAccess.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\AuthFilters\\AdminAccess.cs",
+              "RelativeDocumentMoniker": "AppLayer\\AuthFilters\\AdminAccess.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\AuthFilters\\AdminAccess.cs",
+              "RelativeToolTip": "AppLayer\\AuthFilters\\AdminAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:02:55.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppLayer",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\AppLayer.csproj",
+              "RelativeDocumentMoniker": "AppLayer\\AppLayer.csproj",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\AppLayer.csproj*",
+              "RelativeToolTip": "AppLayer\\AppLayer.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T14:01:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniqueEmailAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\CustomValidations\\UniqueEmailAttribute.cs",
+              "RelativeDocumentMoniker": "BLL\\CustomValidations\\UniqueEmailAttribute.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\CustomValidations\\UniqueEmailAttribute.cs",
+              "RelativeToolTip": "BLL\\CustomValidations\\UniqueEmailAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:59:27.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\DTOs\\UserDTO.cs*",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:58:53.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\Services\\UserService.cs*",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:58:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\DAL\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\DAL\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:57:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\DAL\\DAL.csproj*",
+              "RelativeToolTip": "DAL\\DAL.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-10T12:58:00.186Z",
@@ -43,12 +145,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BLL",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\BLL\\BLL.csproj",
+              "DocumentIndex": 7,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\BLL.csproj*",
+              "RelativeToolTip": "BLL\\BLL.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-10T12:57:16.812Z",
@@ -56,29 +158,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\AppLayer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\Program.cs",
               "RelativeDocumentMoniker": "AppLayer\\Program.cs",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\AppLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\Program.cs",
               "RelativeToolTip": "AppLayer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T12:49:41.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T12:49:41.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\BLL\\MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\MapperConfig.cs",
               "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant \u0026 Food Service System\\BLL\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\MapperConfig.cs",
               "RelativeToolTip": "BLL\\MapperConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T12:44:57.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T12:44:57.049Z"
             }
           ]
         }
