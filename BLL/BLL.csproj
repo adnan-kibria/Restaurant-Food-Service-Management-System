@@ -16,10 +16,4 @@
     <ProjectReference Include="..\DAL\DAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="CustomValidations\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
