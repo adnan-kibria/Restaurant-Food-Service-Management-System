@@ -8,6 +8,13 @@ namespace BLL
     {
         public static MapperConfiguration config = new MapperConfiguration(cfg =>
         {
+            cfg.CreateMap<User, LoginDTO>().ReverseMap();
+            cfg.CreateMap<User, RegistrationDTO>().ReverseMap();
+            cfg.CreateMap<Customer, RegistrationDTO>().ReverseMap();
+            cfg.CreateMap<Manager, RegistrationDTO>().ReverseMap();
+            cfg.CreateMap<Chef, RegistrationDTO>().ReverseMap();
+            cfg.CreateMap<Waiter, RegistrationDTO>().ReverseMap();
+            cfg.CreateMap<DeliveryMan, RegistrationDTO>().ReverseMap();
             cfg.CreateMap<Address, AddressDTO>().ReverseMap();   
             cfg.CreateMap<AuditLog, AuditLogDTO>().ReverseMap();   
             cfg.CreateMap<Bill, BillDTO>().ReverseMap();   
@@ -32,7 +39,8 @@ namespace BLL
             cfg.CreateMap<TableStatus, TableStatusDTO>().ReverseMap();   
             cfg.CreateMap<User, UserDTO>().ReverseMap();   
             cfg.CreateMap<UserStatus, UserStatusDTO>().ReverseMap();   
-            cfg.CreateMap<Waiter, WaiterDTO>().ReverseMap();   
+            cfg.CreateMap<Waiter, WaiterDTO>().ReverseMap();
+            
         });
 
         public static Mapper GetMapper()

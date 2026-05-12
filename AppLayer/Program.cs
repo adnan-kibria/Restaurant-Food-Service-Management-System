@@ -1,4 +1,5 @@
 using BLL.Services;
+using DAL;
 using DAL.EF;
 using DAL.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -63,11 +64,20 @@ builder.Services.AddScoped<TableStatusService>();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<UserStatusService>();
 builder.Services.AddScoped<WaiterService>();
+builder.Services.AddScoped<AuthService>();
 
 //Database Context Dependency
 builder.Services.AddDbContext<RestaurantFoodServiceContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
+});
+
+//Session Dependency
+builder.Services.AddSession(opt =>
+{
+    opt.IdleTimeout = TimeSpan.FromMinutes(30);
+    opt.Cookie.HttpOnly = true;
+    opt.Cookie.IsEssential = true;
 });
 
 var app = builder.Build();
@@ -82,6 +92,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseRouting();
+app.UseSession();
 
 app.UseAuthorization();
 
@@ -91,6 +102,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
-
 
 app.Run();

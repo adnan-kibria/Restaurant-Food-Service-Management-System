@@ -456,10 +456,10 @@ C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Manage
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\AppLayer.csproj.Up2Date
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\AppLayer.dll
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\refint\AppLayer.dll
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\AppLayer.pdb
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\AppLayer.genruntimeconfig.cache
 C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\ref\AppLayer.dll
+C:\Users\adnan\OneDrive\Documents\web-dev\asp.net\Restaurant-Food-Service-Management-System\AppLayer\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -244,6 +244,11 @@ public partial class RestaurantFoodServiceContext : DbContext
             entity.HasOne(d => d.Address).WithMany(p => p.Managers)
                 .HasForeignKey(d => d.AddressId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Managers_Addresses");
+
+            entity.HasOne(d => d.User).WithMany(p => p.Managers)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Managers_Users");
         });
 
@@ -397,9 +402,7 @@ public partial class RestaurantFoodServiceContext : DbContext
             entity.Property(e => e.Email)
                 .HasMaxLength(50)
                 .IsUnicode(false);
-            entity.Property(e => e.Password)
-                .HasMaxLength(50)
-                .IsUnicode(false);
+            entity.Property(e => e.Password).IsUnicode(false);
 
             entity.HasOne(d => d.Role).WithMany(p => p.Users)
                 .HasForeignKey(d => d.RoleId)

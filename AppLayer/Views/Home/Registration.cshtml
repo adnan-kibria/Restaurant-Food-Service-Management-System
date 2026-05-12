@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form class="form-control" method="post">
+    <input type="text" class="form-control" name="Name" value="@Model.Name" placeholder="Enter name" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span><br />
+    <input type="text" class="form-control" name="Phone" value="@Model.Phone" placeholder="Enter phone number" />
+    <span class="text-danger">@Html.ValidationMessage("Phone")</span><br />
+    <input type="text" class="form-control" name="Email" value="@Model.Email" placeholder="Enter email address" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span><br />
+    <input type="text" class="form-control" name="AddressLine" value="@Model.AddressLine" placeholder="Enter address" />
+    <span class="text-danger">@Html.ValidationMessage("AddressLine")</span><br />
+    <input type="text" class="form-control" name="Area" value="@Model.Area" placeholder="Enter area" />
+    <span class="text-danger">@Html.ValidationMessage("Area")</span><br />
+    <input type="text" class="form-control" name="City" value="@Model.City" placeholder="Enter city" />
+    <span class="text-danger">@Html.ValidationMessage("City")</span><br />
+    <input type="password" class="form-control" name="Password" placeholder="Enter password" />
+    <span class="text-danger">@Html.ValidationMessage("Password")</span><br />
+    <input type="password" class="form-control" name="ConfirmPassword" placeholder="Enter password" />
+    <span class="text-danger">@Html.ValidationMessage("ConfirmPassword")</span><br />
+    <input type="submit" value="Submit" class="btn btn-primary" />
+</form>

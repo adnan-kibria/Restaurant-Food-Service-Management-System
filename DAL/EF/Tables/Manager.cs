@@ -16,4 +16,6 @@ public partial class Manager
     public Guid UserId { get; set; }
 
     public virtual Address Address { get; set; } = null!;
+
+    public virtual User User { get; set; } = null!;
 }
