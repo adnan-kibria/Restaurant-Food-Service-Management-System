@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\applayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\applayer\\authfilters\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0B3B6C2-3339-9CB5-77E7-F31BED4D1906}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\authfilters\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\adnan\\onedrive\\documents\\web-dev\\asp.net\\restaurant-food-service-management-system\\bll\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AppLayer\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AppLayer\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:30:30.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logged.cs",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\AuthFilters\\Logged.cs",
-              "RelativeDocumentMoniker": "AppLayer\\AuthFilters\\Logged.cs",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\AppLayer\\AuthFilters\\Logged.cs",
-              "RelativeToolTip": "AppLayer\\AuthFilters\\Logged.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:11:35.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\DTOs\\RegistrationDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\RegistrationDTO.cs",
-              "ToolTip": "C:\\Users\\adnan\\OneDrive\\Documents\\web-dev\\asp.net\\Restaurant-Food-Service-Management-System\\BLL\\DTOs\\RegistrationDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\RegistrationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T07:15:45.764Z",
-              "EditorCaption": ""
             }
           ]
         }
